@@ -16,8 +16,6 @@ namespace AllYouNeed.Shell
 
         public static List<Command> commands = new List<Command>();
 
-        public static string fps = "";
-
         public static void Initialize()
         {
             Console.Clear();
